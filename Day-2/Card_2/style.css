@@ -1,0 +1,25 @@
+.bg{
+    width: 700px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 50px auto;
+    position: relative;
+}
+.bg-img{
+    width: 100%;
+    border-radius: 14px;
+}
+.bg-content{
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom: 100px;
+    left: 40px
+}
+.btn-light{
+    background-color: #fff;
+    border: none;
+    padding: 16px 30px;
+    border-radius: 40px;
+    font-size: 16px;
+}
